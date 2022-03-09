@@ -611,7 +611,7 @@ nodes:
       !
       interface GigabitEthernet0/1
        no ip address
-       shutdown
+       no shutdown
        duplex auto
        speed auto
        media-type rj45
